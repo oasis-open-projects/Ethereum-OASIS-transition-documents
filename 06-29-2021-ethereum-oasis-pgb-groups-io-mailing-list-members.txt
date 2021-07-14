@@ -1,0 +1,19 @@
+Email,Display Name,Username,Joined,"Status(0=Normal,1=Pending,2=Banned)","Post Status(0=Normal,1=Allowed,2=Moderated,3=NotAllowed,4=NewUserModerated)","Email Delivery(0=Single,1=Plain Digest,2=Special,3=None,4=Full Digest,5=Summary)","Message Selection(0=All,1=Follow Only,2=Follow Only And First)",Auto Follow Replies,"Mod Status(0=None,1=Moderator,2=Owner)","User Status(0=Not Confirmed,1=Confirmed,2=Inactive,3=Bouncing,4=Bounced)"
+antonio.sabado@nethermind.io,,,2/3/2021,0,0,0,0,false,0,1
+carol.geyer@oasis-open.org,Carol Geyer,carol.geyer,10/21/2019,0,0,0,0,false,2,1
+charles.nevile@consensys.net,Charles 'chaals' (McCathie) Nevile,,8/17/2020,0,0,0,0,false,1,1
+chet.ensign@oasis-open.org,Chet Ensign,,10/21/2019,0,0,0,0,false,2,1
+claudia.rauch@oasis-open.org,Claudia Rauch,claurau,3/29/2021,0,0,0,0,false,2,1
+daniel.burnett@consensys.net,Dan Burnett,,2/11/2020,0,0,0,0,false,1,4
+daniel.burnett@entethalliance.org,Daniel Burnett,,7/16/2020,0,0,0,0,false,1,1
+dan@smartcontract.com,,,8/20/2020,0,0,0,0,false,0,1
+Jan.Brezina1@ey.com,Jan Brezina,,3/17/2021,0,0,0,0,false,0,1
+jharnad@oasis-open.org,Jane Harnad,,5/6/2020,0,0,0,0,false,0,1
+John.Wolpert@mesh.xyz,John Wolpert,,9/17/2020,0,0,0,0,false,1,1
+jory.burson@oasis-open.org,Jory Burson,,10/22/2019,0,0,0,0,false,2,1
+kyle@provide.services,Kyle Thomas,kthomas,8/20/2020,0,0,0,0,false,0,1
+michael.w.klein@accenture.com,"Klein, Michael W.",,8/28/2020,0,3,0,0,false,0,1
+noam@morpheus.network,Noam Eppel,noameppel,5/24/2021,0,0,0,0,false,0,1
+stefan@unibright.io,Stefan Schmidt,,6/30/2020,0,0,0,0,false,0,1
+tas.dienes@ethereum.org,Tas Dienes,,2/11/2020,0,0,0,0,false,1,1
+tracy.a.kuhrt@accenture.com,"Kuhrt, Tracy A.",,9/4/2020,0,0,0,0,false,0,1

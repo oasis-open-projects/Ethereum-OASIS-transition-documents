@@ -1,0 +1,19 @@
+Email,Display Name,Username,Joined,"Status(0=Normal,1=Pending,2=Banned)","Post Status(0=Normal,1=Allowed,2=Moderated,3=NotAllowed,4=NewUserModerated)","Email Delivery(0=Single,1=Plain Digest,2=Special,3=None,4=Full Digest,5=Summary)","Message Selection(0=All,1=Follow Only,2=Follow Only And First)",Auto Follow Replies,"Mod Status(0=None,1=Moderator,2=Owner)","User Status(0=Not Confirmed,1=Confirmed,2=Inactive,3=Bouncing,4=Bounced)"
+carol.geyer@oasis-open.org,Carol Geyer,carol.geyer,10/21/2019,0,0,0,0,false,2,1
+Chaals@entethalliance.org,Chaals Nevile,,2/11/2020,0,0,0,0,false,1,1
+chet.ensign@oasis-open.org,Chet Ensign,,10/21/2019,0,0,0,0,false,2,1
+claudia.rauch@oasis-open.org,Claudia Rauch,claurau,3/29/2021,0,0,0,0,false,2,1
+daniel.burnett@consensys.net,Dan Burnett,,2/11/2020,0,0,0,0,false,1,4
+david.guenther@protonmail.com,,,3/5/2020,0,4,0,0,false,0,1
+iamaaronpaz@gmail.com,Aaron Eugene Paz,,3/4/2020,0,4,0,0,false,0,1
+jharnad@oasis-open.org,Jane Harnad,,5/6/2020,0,4,0,0,false,0,1
+John.Wolpert@mesh.xyz,John Wolpert,,9/17/2020,0,4,0,0,false,0,1
+jory.burson@oasis-open.org,Jory Burson,,10/22/2019,0,0,0,0,false,2,1
+Nick.Kritikos@mesh.xyz,,,9/17/2020,0,4,0,0,false,0,1
+ralf.knobloch@slock.it,Ralf Knobloch,axonero,3/5/2020,0,4,0,0,false,0,1
+sayadzad@gmail.com,,,3/5/2020,0,4,0,0,false,0,1
+scott@onelaw.us,Scott H Stevenson,,3/7/2020,0,4,0,0,false,0,1
+stoyanovvv@gmail.com,,,3/21/2020,0,4,0,0,false,0,1
+tas.dienes@ethereum.org,Tas Dienes,,2/11/2020,0,0,0,0,false,1,1
+tracy.a.kuhrt@accenture.com,"Kuhrt, Tracy A.",,9/4/2020,0,4,0,0,false,0,1
+vdellanno@speedchain.com,,,5/6/2021,0,0,0,0,false,0,1
